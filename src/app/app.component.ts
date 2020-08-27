@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'TPCVANG';
+  nomNom ='Amadou Bagouma';
+  nomAge = 34;
+  monPhoto ='/assets/moi.jpeg';
+  mesLiens:any[] = [];
+
 }
